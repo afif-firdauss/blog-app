@@ -1,0 +1,26 @@
+
+.footer {
+  background-color: #02416b;
+  color: white;
+  height: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+  color: white;
+  background-color: #012842;
+}
+
+.copyright p {
+  font-size: 1rem;
+  margin: 0;
+  padding: 15px 0;
+}
+
+.copyright span {
+  font-weight: bold;
+}
